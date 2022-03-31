@@ -1,4 +1,4 @@
-body{
+bbody{
     background-color: dimgray;
     color: #f39604;
     font-family: 'Noto Serif', serif;
@@ -15,7 +15,7 @@ body{
     width: 900px;
     height: auto;
     margin: auto;
-    background-color: #2f3030;
+    background-color: goldenrod;
     padding: 10px;
 
 }
@@ -32,5 +32,5 @@ footer{
 }
 
 p{
-    color: black;
+    color: white;
 }
